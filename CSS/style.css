@@ -1,0 +1,36 @@
+.navbar{
+    display: flex;
+    /*justify-content: space-between;*/
+   align-items: center;
+   margin-left: auto;  
+  
+}
+    
+.
+
+.menu ul{
+    display: flex;
+    list-style-type: none;
+    text-decoration: none
+    
+}
+
+
+
+.menu li a{
+    padding: 10px;
+    text-decoration: none
+    ;
+}
+.menu li a:hover{
+border-radius: 25px;
+background : radial-gradient(#ff0000  #ffff00 #00ff00)
+color #fff
+a
+
+}
+
+.menu li a:active{
+background-color: #00ff00;
+align-items
+}
